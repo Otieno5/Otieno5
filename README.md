@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, I'm Cynthia
 
-<!--
-**Otieno5/Otieno5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="www.linkedin.com/in/cynthia-achieng-408308277">LinkedIn</a>
 
-Here are some ideas to get you started:
+##Brief intoduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a recent graduate with a profound interest in technology and a dedication to solving compex problems.
+
+##Obective
+
+My journey in software engineering has led me to develop a passion in front end web development, and I am now eager to transition into this field, specifically aiming to join any tech company as a junior front end developer
+
+##Skills
+
+Front end core web technologies-HTML, CSS, Javascript
+
+Front end frameworks-React, Node.js
+
+##Proffesional Experience
+
+Fontier
